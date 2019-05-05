@@ -8,4 +8,4 @@ assignees: ''
 ---
 
 **Details**
-Please complete as necessary.
+[Please complete as necessary]

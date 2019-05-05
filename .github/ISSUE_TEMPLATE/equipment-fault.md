@@ -7,6 +7,8 @@ assignees: southa
 
 ---
 
+[Please delete/edit as appropriate]
+
 **Which piece of equipment?**
 Some things, like oars and ergos, can be tricky.  Most oars have serial numbers, and a photo of those is good.  Be sure to send us to the right boathouse.
 
