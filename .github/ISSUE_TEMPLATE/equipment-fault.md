@@ -1,7 +1,7 @@
 ---
 name: Equipment fault
 about: Use this to report faults with equipment
-title: "[Equipment fault] "
+title: ''
 labels: ''
 assignees: southa
 
